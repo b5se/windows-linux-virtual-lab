@@ -18,6 +18,8 @@ All testing was performed against virtual machines that I created and controlled
 * Meterpreter
 * Nmap
 
+![Windows and Kali Linux Virtual Machines](lab-screenshot.png)
+
 The Windows virtual machine was intentionally selected and configured to be vulnerable to the EternalBlue vulnerability for educational testing.
 
 ## Methodology
